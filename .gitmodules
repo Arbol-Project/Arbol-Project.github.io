@@ -1,3 +1,4 @@
 [submodule "arbol-logo"]
 	path = arbol-logo
 	url = https://github.com/Arbol-Project/arbol-logo.git
+	branch = master
